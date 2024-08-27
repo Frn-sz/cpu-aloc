@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CPUAloc.dir/src/main.cpp.o CMakeFiles/CPUAloc.dir/src/Process.cpp.o -o CPUAloc 
